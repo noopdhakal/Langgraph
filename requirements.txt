@@ -9,3 +9,5 @@ PyMuPDF
 langchain-text-splitters
 langchain_openai
 chromadb
+sentence_transformers
+langchain_huggingface
